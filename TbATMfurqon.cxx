@@ -8,9 +8,9 @@ int main() {
     printf("==============================\n");
   
     // Inisialisasi PIN awal
-    int pin = 11;
+    int pin = 290603;
     // Inisialisasi saldo awal
-    float balance = 50;
+    float balance = 900000;
     // Inisialisasi variabel-variabel lain yang dibutuhkan
     int choice, login_attempt = 0;
     int transfer_account_number;
